@@ -1,1 +1,1 @@
-utility func for vers 1
+utility func for vers 2
